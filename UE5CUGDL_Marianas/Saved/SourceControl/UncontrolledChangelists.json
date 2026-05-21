@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Maria/Documents/GitHub/UE5CUGDL_Marianas/UE5CUGDL_Marianas/Content/UMG/WB_MainMenu.uasset",
+				"C:/Users/Maria/Documents/GitHub/UE5CUGDL_Marianas/UE5CUGDL_Marianas/Content/Variant_Combat/Blueprints/BP_CombatCharacter.uasset"
+			]
+		}
+	]
+}
